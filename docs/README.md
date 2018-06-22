@@ -1,6 +1,6 @@
 # ThreeFold IMPACT
 
-[![](https://images.unsplash.com/photo-1450849608880-6f787542c88a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=604fb2337692131d89985e6547b23a8f&auto=format&fit=crop&w=1266&q=80)](https://www.youtube.com/watch?v=4exjbFvnGkk)
+[![](https://img.frasicelebri.it/images/thumb_bundle-45-africani.650x250_q95_box-0,0,647,249.jpg)]
 
 ## Impacting Africa with a new, green and neutral internet for all
 
