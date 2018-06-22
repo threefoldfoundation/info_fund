@@ -1,6 +1,6 @@
 # ThreeFold Impact
 
-[![](https://qph.fs.quoracdn.net/main-qimg-fffcf112c7faf0391faa4dbef09ef2c6.webp)
+[![](https://heypik.com/download/index?goto=MjMxNTk0MzU=)
 
 This is the repository where information is stored on ThreeFold IMPACT.
 
