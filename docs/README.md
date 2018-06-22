@@ -4,30 +4,21 @@
 
 ## Impacting Africa with a new, green and neutral internet for all
 
-For additional information, please refer to our official channels: 
+For additional information, please refer to below quick links: 
 
-ThreeFold Foundation Website: [threefoldtoken.com](https://threefoldtoken.com/) 
+- [ThreeFold Impact Website](https://threefoldimpact.com/)
+- [ThreeFold Impact charter document](/docs/description/threefold_impact.md)
+- [ThreeFold Impact presentation](https://docs.google.com/presentation/d/1dDxTCMT1bszjl5rMB9LT09xYqLcEAj_SsftvoOdAe3U/edit#slide=id.g3bcabecd48_0_231)
 
-ThreeFold Impact Website: [threefoldimpact.com](https://threefoldimpact.com/)
+Related information can be seen at:
 
-ThreeFold Token website: [tftokens.com](http://www.tftokens.com/)
-
-ThreeFold Grid Website: [tffarmers.com](https://tffarmers.com/)
-
-Whitepaper, articles, known issues: [docs.grid.tf/threefold/info](https://docs.grid.tf/threefold/info) 
-
-Foundation Wiki: [https://threefoldfoundation.github.io/info_foundation/](https://threefoldfoundation.github.io/info_foundation/)
-
-Whitepaper (pdf): [threefoldtoken.com/pdf/tf_whitepaper.pdf](https://threefoldtoken.com/pdf/tf_whitepaper.pdf)
-
-YouTube channel: [youtube.com/c/ThreeFoldFoundation](https://www.youtube.com/c/ThreeFoldFoundation)
-
-ThreeFold Telegram Chat, English: [t.me/threefoldtoken_chat](https://t.me/threefoldtoken_chat)
-
-ThreeFold Telegram Farmers Chat: [t.me/joinchat/BwOvO0NpZjNMHFx8wD_5nw](https://t.me/joinchat/BwOvO0NpZjNMHFx8wD_5nw)
-
-Facebook: [facebook.com/ThreeFoldCommunity](https://www.facebook.com/ThreeFoldCommunity)
-
-LinkedIn: [linkedin.com/company/threefold-foundation/](https://www.linkedin.com/company/threefold-foundation/)
+- [ThreeFold Foundation website](http://www.threefoldfoundation.com/)
+- [ThreeFold Token website](http://www.tftokens.com/)
+- [ThreeFold Grid Website](https://tffarmers.com/) 
+- [ThreeFold Foundation Wiki](https://threefoldfoundation.github.io/info_foundation/)
+- [ThreeFold Whitepaper](https://threefoldtoken.com/pdf/tf_whitepaper.pdf)
+- [ThreeFold Foundation YouTube channel](https://www.youtube.com/c/ThreeFoldFoundation)
+- [ThreeFold Facebook Page](https://www.facebook.com/ThreeFoldCommunity)
+- [ThreeFold Linkdin Site](https://www.linkedin.com/company/threefold-foundation/)
 
 You can read Kristof’s latest articles at [medium.com/@despiegk](https://medium.com/@despiegk)
