@@ -4,13 +4,13 @@
 
 ## Impacting Africa with a new, green and neutral internet for all
 
-For additional information, please refer to below quick links: 
+For additional information on Threefold Impact, please refer to below quick links: 
 
 - [ThreeFold Impact Website](https://threefoldimpact.com/)
 - [ThreeFold Impact charter document](/docs/description/threefold_impact.md)
 - [ThreeFold Impact presentation](https://docs.google.com/presentation/d/1dDxTCMT1bszjl5rMB9LT09xYqLcEAj_SsftvoOdAe3U/edit#slide=id.g3bcabecd48_0_231)
 
-Related information can be seen at:
+ThreeFold related information can be seen at:
 
 - [ThreeFold Foundation website](http://www.threefoldfoundation.com/)
 - [ThreeFold Token website](http://www.tftokens.com/)
