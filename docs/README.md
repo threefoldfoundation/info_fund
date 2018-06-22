@@ -4,5 +4,5 @@
 
 This is the repository where information is stored on the ThreeFold IMPACT fund.
 
-- [Initial charter document](/description/threefold_impact.md)
+- [ThreeFold Impact charter document](/description/threefold_impact.md)
 - [ThreeFold Impact Presentation](/presentation/threefold_impact.md)
