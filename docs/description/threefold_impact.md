@@ -1,50 +1,16 @@
-**THREEFOLD IMPACT - A digital empowerment initiative**    
+**ThreeFold Impact - A digital empowerment initiative**    
   
-- [1. Introduction](#1-introduction)
-  * [1.1 ThreeFold Impact](#11-threefold-impact)
-  * [1.4 ThreeFold Impact Africa](#14-threefold-impact-africa)
-  * [1.5 ThreeFold Impact Africa Founders & Participants](#15-threefold-impact-africa-founders--participants)
-- [2. ThreeFold Impact Platform](#2-threefold-impact-platform)
-  * [2.1. ThreeFold Impact Instruments](#21-threefold-impact-instruments)
-  * [2.2. ThreeFold Impact Initiatives](#22-threefold-impact-initiatives)
-    + [2.2.1 TFI INVEST](#221-tfi-invest)
-    + [2.2.2 TFI Match](#222-tfi-match)
-    + [2.2.3 TFI COMMUNITY](#223-tfi-community)
-    + [2.3 TFI Beneficiaries (of financial support)](#23-tfi-beneficiaries-of-financial-support)
-      - [2.3.1. Financially Assisted Farmers:](#231-financially-assisted-farmers)
-      - [2.3.2. Financially Sponsored Farmers:](#232-financially-sponsored-farmers)
-      - [2.3.3. Social Impact Partners](#233-social-impact-partners)
-- [3. TFI Investment Criteria](#3-tfi-investment-criteria)
-  * [3.1 IMPACT INVEST: Qualification Criteria](#31-impact-invest-qualification-criteria)
-  * [3.2. IMPACT INVEST CSR: Partner selection criteria](#32-impact-invest-csr-partner-selection-criteria)
-  * [3.3. IMPACT EMPOWER: Beneficiary selection criteria](#33-impact-empower-beneficiary-selection-criteria)
-- [4. ThreeFold Impact Tools (proposed)](#4-threefold-impact-tools-proposed)
-  * [4.1. TFI Give-Forward wallet](#41-tfi-give-forward-wallet)
-  * [4.2. Threefold Impact Directory (TID)](#42-threefold-impact-directory-tid)
-  * [4.3. Risk factor calculator](#43-risk-factor-calculator)
-  * [4.4. Impact Tracker](#44-impact-tracker)
-- [5. TFI MEASUREMENT](#5-tfi-measurement)
-  * [5.1 Qualitative Assessment](#51-qualitative-assessment)
-  * [5.2 Independent third party assessment:](#52-independent-third-party-assessment)
-- [6. TFI Legal Structure](#6-tfi-legal-structure)
-  * [6.1 Investor perspective.](#61-investor-perspective)
-  * [6.2 Management perspective.](#62-management-perspective)
-  * [6.3 The “Investee” perspective.](#63-the-investee-perspective)
-- [7. TFI Blockchain Integration](#7-tfi-blockchain-integration)
-  * [7.1 Smart Impact Bond (SIB)](#71-smart-impact-bond-sib)
-  * [7.2 Smart Impact Investment Agreement (SIIA)](#72-smart-impact-investment-agreement-siia)
-- [8. TFI Governance](#8-tfi-governance)
-  * [8.1. Board of Directors](#81-board-of-directors)
-  * [8.2. CSR Committee](#82-csr-committee)
-  * [8.3. CSR Implementation Team](#83-csr-implementation-team)
-    + [9. TFI Risks](#9-tfi-risks)
-- [10. TFI Goals & Timelines](#10-tfi-goals--timelines)
   
 # 1. Introduction 
 ## 1.1 ThreeFold Impact 
-ThreeFold Impact facilitates the expansion of ThreeFold Grid, a decentralised, neutral, green and secure internet,  typically focussing on emerging markets which face the biggest challenges with regards to underdeveloped infrastructure and access to internet based services.     
+ThreeFold Impact (“TFI”) facilitates the expansion of ThreeFold Grid, a decentralised, neutral, green and secure internet (i.e. storage and computing capacity) in emerging economies with underdeveloped internet infrastructure and limited access to digital services.     
   
-Plentiful and affordable internet (i.e. storage and computing capacity) increases access to education, digital services and critical needs assistance are necessary conditions for continuous development in emerging economies. Yet those are often least connected and/or with the most expensive storage and compute power, which results in a vicious cycle of isolation and subpar growth. We believe that such areas need support to attain sustainable growth and to integrate with the global economy.     
+Local and affordable internet give better access to education, digital services and critical needs assistance, i.e. create necessary conditions for continuous development and integration into the global digital economy. Poor connectivity and disproportionately expensive storage and computing capacity result in a vicious cycle of isolation and subpar growth for emerging economies. We believe that such areas need comprehensive support in attaining a sustainable digital presence and integrating with the global economy.     
+  
+TFI solution is to finance local individuals, entrepreneurs and businesses in setting up and operating ThreeFold Farms, eco-friendly alternatives to the traditional data centers, which can be economical even at a microscale, and without significant brick and mortar infrastructure (e.g. electricity grid or fiber optic broadband).     
+  
+Storage and computing capacity of the ThreeFold Grid are rolled out by independent individuals, entrepreneurs and businesses via ThreeFold Farms, internet capacity producers. ThreeFold Farms are an eco-friendly alternative to traditional data centers. They can be as big as a hyperscale data center, or as small as a modem-size box and still be economical due to ThreeFold’s innovative software technology and the use of blockchain for network regulation. The small boxes produce enough capacity for several users and can be run from home. A network of such small boxes forms a decentralized internet, local to and owned by all. ThreeFold entrepreneurs, or ThreeFold Farmers, farm and earn ThreeFold Tokens, the currency of this new internet. ThreeFold tokens are green, because they use proof of capacity, i.e. tokens are created when Farmers connect their box to electricity and the internet. In other words, no electricity is burned for complex-algorithm problem solving. In fact, ThreeFold software uses less electricity than traditional data centers.     
+  
   
 Threefold Foundation is the sponsor of TF Impact, providing TF Tokens to those who farm TF capacity by connecting to the TF Grid.    
 ## 1.4 ThreeFold Impact Africa
@@ -55,16 +21,30 @@ Our goal is to develop and accelerate the farming of ThreeFold internet capacity
 ThreeFold Impact Africa (“TFI Africa”) delivers financial return plus measurable social impact by financing the deployment of storage and computing capacity in one of the most underdeveloped regions, Africa. .     
   
 TFI Africa has the following mandate:    
-- Empower individuals, businesses and communities through increased connectivity, digital literacy and access to digital and critical needs services;
-- Supporting a more equitable peer-to-peer economy; and
-- Promote environmental sustainability.
+Empower individuals, businesses and communities through increased connectivity, digital literacy and access to digital and critical needs services in Africa 
+Supporting a more equitable peer-to-peer economy
+Promote environmental sustainability.
+
 # 2. ThreeFold Impact Platform
+ThreeFold Impact facilitates connectivity, inclusion and prosperity in Africa by financing local entrepreneurs, who establish and run capacity farms, empowered by ThreeFold technology. ThreeFold Impact has an inbuilt give-forward to the communities, where its capacity farms operate. The goal of the give-forward is to improve digital literacy, increase access to digital services and access to critical needs assistance.     
+  
+ThreeFold finances local entrepreneurs, who set up and run ThreeFold capacity farms, which produce local storage and computing capacity, an alternative to overseas based data centers.     
+  
+The returns to ThreeFold Impact investors are capped at a pre-agreed multiple to the initial investment, with the excess returns redeployed into the social responsibility projects.    
+  
+  
 ThreeFold Impact promotes accessibility, inclusion and local and global community betterment via expansion and utilization of its green grid of data and compute capacity. Key to it’s focus, Threefold Impact has a built in giveforward, direct social impact component, included by design, in all its initiatives.    
   
 The primary social impact component is achieved by deploying returns, in excess of pre-agreed capped return, back to communities within the country from where the returns have been generated. Additionally, ThreeFold Impact has purpose built CSR initiatives based upon direct matching and sponsorship of Threefold capacity.    
   
 TFI gives back via three types of social projects: education and digital literacy, accessibility of digital services and critical needs assistance.     
 ## 2.1. ThreeFold Impact Instruments
+  
+TFI finances several types of Farmers: individuals, entrepreneurs and businesses.     
+  
+TFI finances ThreeFold individual and entrepreneur Farmers by purchasing hardware and extending working capital facilities. The ThreeFold Farmers set up and operate the farms on behalf of TFI, earn ThreeFold tokens for providing the services until the hardware fully depreciates (60 months) or TFI recovers its investment plus target return, whichever happens earlier. At that point ownership of hardware is transferred to the Farmer. The Farmer can run the software for an additional period of up to 5 years - ThreeFold technology can be run on the refurbished hardware with comparable economics.         
+  
+L    
 ThreeFold Impact has two primary instruments:    
   
 - Impact Invest: enables large scale grid expansion by means of investing in infrastructure at an attractive return for investors with a built-in giveforward/Corporate Social Responsibility (“CSR”) component. Returns to investors are capped at a multiple of initial investment whilst excess returns are reinvested for social impact.
@@ -79,7 +59,8 @@ By design, all TFI initiatives include a “giveforward” social impact compone
 ## 2.2. ThreeFold Impact Initiatives
 Within these two core TFI instruments are the initial launch efforts as envisaged by the team.    
   
-    
+
+    
 ### 2.2.1 TFI INVEST
 An **Impact Invest** initiative. Investors enable the expansion of compute and data capacity infrastructure via the deployment of the Threefold grid primarily in emerging markets for both a financial and a social impact return. Excess returns after a pre-set ROI cap are reinvested via the **Impact Empower** initiatives or via pre-qualified 3rd party CSR partner initiatives.    
 ### 2.2.2 TFI Match 
@@ -145,7 +126,8 @@ Project budgets are in line with activities, key actors have adequate previous e
 ## 3.3. IMPACT EMPOWER: Beneficiary selection criteria
 Includes TFI:Match & TFI:Community. Impact Empower’s direct donor matching initiatives and community give-forward platform are guided by the principles of good faith and trust.    
   
-Inspired by Marion Rockefeller’s trust-based Flow Funding in which proven social actors are empowered to give forward to their communities, Impact Empower facilitates direct donor support of beneficiaries to enable individuals and groups to benefit from becoming Threefold farmers. Our Threefold Impact Directory allows potential farmers and interested donors to register their proposals and find one another in a direct match-giving platform. Ref:[ http://flowfunding.org/about/whatisit.html](http://flowfunding.org/about/whatisit.html)  
+Inspired by Marion Rockefeller’s trust-based Flow Funding in which proven social actors are empowered to give forward to their communities, Impact Empower facilitates direct donor support of beneficiaries to enable individuals and groups to benefit from becoming Threefold farmers. Our Threefold Impact Directory allows potential farmers and interested donors to register their proposals and find one another in a direct match-giving platform. 
+Ref:[ http://flowfunding.org/about/whatisit.html](http://flowfunding.org/about/whatisit.html)  
   
 Eligible beneficiaries for Impact Empower are individuals or registered community groups who are able to fulfill the requirements of a Threefold Farmer (diy or enabled via a co-op, see: [Role of a TFF Co-op](https://docs.grid.tf/threefold/info/src/branch/master/concepts/what_does_a_cooperative_do.md)) and are willing to the agree to the terms of the Goodwill farming agreement (TBD).    
 # 4. ThreeFold Impact Tools (proposed)
@@ -161,11 +143,12 @@ To calculate risk on specific projects, i.e longevity, partner success rate, amo
 ## 4.4. Impact Tracker
 Successfully matched donors/beneficiaries and investors/projects above can be presented in a platform that shows the progress of farming and of projects, benchmarks met, etc. This can be integrated with Social suite and IXO (see below)    
 # 5. TFI MEASUREMENT
-Note: this section speaks mostly Empower/ CSR measurement. Not sure if we should add measurement for the Invest part or clarify title?    
-  
-## 5.1 Qualitative Assessment
+## 5.1. Investment Returns Measurement
+xxxx    
+## 5.2. Social Impact Measurement:
+## Qualitative Assessment
 Donors and beneficiaries, investors and partners, participate in feedback and reporting on their activities.    
-## 5.2 Independent third party assessment:
+## Independent third party assessment:
 IXO: Results of social impact investment will be assessed via IXO, the world’s first blockchain protocol for impact measurement- a decentralised impact exchange to verify impact claims, i.e. ’proof of impact’.    
   
 Socialsuite: an SaaS platform with a digital marketplace of validated impact measurement metrics that helps not-for-profits and community service organisations measure and report on the outcomes and impacts of their services.    
@@ -225,6 +208,14 @@ Operations. Communication and coordination with provider partners, monitor and r
   
 **Note: Structure can be simplified depending on the legal structure chosen, and whether the following tools and impact measurement partnerships can be implemented. A smaller governing board can work with a Board of Advisors.*    
   
+### 9. TFI Investor Portfolio 
+- Institutional funds
+- High networth individuals
+- Family offices
+- CSR Funds
+- Philanthropic Funds
+  
+xxx    
 ### 9. TFI Risks
 - New Technology: the fact that the tech underpinning this TFF movement is so new with limited track record will pose some concern for investors. HOwever, this will be addressed over time and hence showcase projects are key to this point
 - Market factors - macro and micro risk economics (see: market analysis)
@@ -237,41 +228,3 @@ Operations. Communication and coordination with provider partners, monitor and r
 - TFI Incorporation: 							August 2018 (end)
 - TFI Seed Investment in 3 small projects for showcase:		Sept 2018 (end)
 - TFI Showcase to first round investors:				Nov 2018 (early)
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-SCRATCH PAD    
-*************************************************************************************************************    
-  
-**New Ideas/Content to integrate:**    
-1. Crowdfunding site & how it relates to TID
-2. SIIA/SIB generator
-3. TFI legal structure
-4. Token issuer legal structure (separate from holding structure)
-  
