@@ -44,7 +44,6 @@ TFI finances several types of Farmers: individuals, entrepreneurs and businesses
   
 TFI finances ThreeFold individual and entrepreneur Farmers by purchasing hardware and extending working capital facilities. The ThreeFold Farmers set up and operate the farms on behalf of TFI, earn ThreeFold tokens for providing the services until the hardware fully depreciates (60 months) or TFI recovers its investment plus target return, whichever happens earlier. At that point ownership of hardware is transferred to the Farmer. The Farmer can run the software for an additional period of up to 5 years - ThreeFold technology can be run on the refurbished hardware with comparable economics.         
   
-L    
 ThreeFold Impact has two primary instruments:    
   
 - Impact Invest: enables large scale grid expansion by means of investing in infrastructure at an attractive return for investors with a built-in giveforward/Corporate Social Responsibility (“CSR”) component. Returns to investors are capped at a multiple of initial investment whilst excess returns are reinvested for social impact.
@@ -78,37 +77,36 @@ TFI gives forward  by investing in local social impact provider partners- proven
 Positive social impact is inherent in all Threefold products and activities. The Threefold Foundation seeks to inhabit its ethos in its planning, operations, products and community, as well as through its give-forward social impact empowerment activities.    
   
 All Investments should be related to expanding the TF Grid in Africa. Investments can be for initial set up of farming and cooperatives that include hardware purchases, working capital needs, and for other set up and operational purposes.    
-## 3.1 IMPACT INVEST: Qualification Criteria
-1. Project Sponsors:
-  1. must portray a similar ethos and belief system to TFF and demonstrate a genuine and measurable intent to giveforward to their local community.
-  2. must be reliable sponsor and meet the operational due diligence criteria
-  3. must have a solid business plan and financial projections 
-  4. must have operating Agreements
-  5. Must have a mature leadership team
-2. Project Ticket Size:
-  1. Size USD1,500 - USD 15,000 are called small farming projects
-  2. Size USD 15,001-150,000 are called medium farming projects
-  3. Size USD 150,001 - 500,000 are called large farming projects
-  4. Size USD 500,001 - 5,000,000 are called cooperative projects
-  5. Size 5,000,001 and above are called large cooperative projects
-  
-1. Investment Term: 3-5 years ?
-2. Equity Requirement and other commitments to be met:
-  1. Min 30% collateral by project sponsor
-  2. Collateralization (maybe vested tokens???)
-  3. Personal and corporate guarantees
-  4. Bank letter of guarantee (15% of project value, renewed annually based on the remaining liabilities to the TFI)
-3. Security provided to cover financial support? How do we recover support capital (at least) in worst case scenario?
-4. ROI Requirement to be met: Min 25% on USD basis p.a.??
-5. Payback Period Requirement: Max 4 years
-6. Please define which countries in Africa are ok to invest for TFI Africa
-7. Distribution of the NAV of TFI Africa:
-- Max 10% per project
-- Max 20% per country (geographical limits?)
-- Others?
-- Max 10% per project
-- Max 20% per country (geographical limits?)
-- Others?
+## 3.1. IMPACT INVEST: Qualification Criteria
+### Project Sponsors:
+  * must portray a similar ethos and belief system to TFF and demonstrate a genuine and measurable intent to giveforward to their local community.
+  * must be reliable sponsor and meet the operational due diligence criteria
+  * must have a solid business plan and financial projections 
+  * must have operating Agreements
+  * must have a mature leadership team
+### Project Ticket Size:
+  * Size USD1,500 - USD 15,000 are called small farming projects
+  * Size USD 15,001-150,000 are called medium farming projects
+  * Size USD 150,001 - 500,000 are called large farming projects
+  * Size USD 500,001 - 5,000,000 are called cooperative projects
+  * Size 5,000,001 and above are called large cooperative projects
+### Investment Term: 3-5 years ?
+### Equity Requirement and other commitments to be met:
+  * Min 30% collateral by project sponsor
+  * Collateralization (maybe vested tokens???)
+  * Personal and corporate guarantees
+  * Bank letter of guarantee (15% of project value, renewed annually based on the remaining liabilities to the TFI)
+### Security provided to cover financial support? How do we recover support capital (at least) in worst case scenario?
+### ROI Requirement to be met: Min 25% on USD basis p.a.??
+### Payback Period Requirement: Max 4 years
+### Please define which countries in Africa are ok to invest for TFI Africa
+### Distribution of the NAV of TFI Africa:
+  * Max 10% per project
+  * Max 20% per country (geographical limits?)
+  * Others?
+  * Max 10% per project
+  * Max 20% per country (geographical limits?)
+  * Others?
 ## 3.2. IMPACT INVEST CSR: Partner selection criteria
 Impact Invest’s give-forward CSR funds achieve social impact in key target sectors by partnering with established Social Impact Partners (SIPs).     
   
