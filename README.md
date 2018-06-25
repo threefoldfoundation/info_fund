@@ -8,7 +8,7 @@ For additional information on Threefold Impact, please refer to below quick link
 
 - [ThreeFold Impact WIKI Site ](https://threefoldfoundation.github.io/info_impact/)
 - [ThreeFold Impact Website](https://threefoldimpact.com/)
-- [ThreeFold Impact Document Repo](https://threefoldfoundation.github.io/info_impact/docs)
+- [ThreeFold Impact Document Repo](https://threefoldfoundation.github.io/info_impact/docs/)
 
 ThreeFold related information can be seen at:
 
