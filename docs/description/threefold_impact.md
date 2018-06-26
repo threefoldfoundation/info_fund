@@ -21,23 +21,15 @@ Our goal is to develop and accelerate the farming of ThreeFold internet capacity
 ThreeFold Impact Africa (“TFI Africa”) delivers financial return plus measurable social impact by financing the deployment of storage and computing capacity in one of the most underdeveloped regions, Africa. .     
   
 TFI Africa has the following mandate:    
-Empower individuals, businesses and communities through increased connectivity, digital literacy and access to digital and critical needs services in Africa 
-Supporting a more equitable peer-to-peer economy
-Promote environmental sustainability.
-
+- Empower individuals, businesses and communities through increased connectivity, digital literacy and access to digital and critical needs services in Africa;
+- Supporting a more equitable peer-to-peer economy; and
+- Promote environmental sustainability.
 # 2. ThreeFold Impact Platform
-ThreeFold Impact facilitates connectivity, inclusion and prosperity in Africa by financing local entrepreneurs, who establish and run capacity farms, empowered by ThreeFold technology. ThreeFold Impact has an inbuilt give-forward to the communities, where its capacity farms operate. The goal of the give-forward is to improve digital literacy, increase access to digital services and access to critical needs assistance.     
+ThreeFold Impact facilitates connectivity, inclusion and prosperity in Africa by financing local entrepreneurs, who establish and run internet capacity farms powered by ThreeFold technology.     
   
-ThreeFold finances local entrepreneurs, who set up and run ThreeFold capacity farms, which produce local storage and computing capacity, an alternative to overseas based data centers.     
+ThreeFold finances local entrepreneurs, who set up and run ThreeFold capacity farms, which produce local storage and computing capacity, an alternative to overseas based data centers. The returns to ThreeFold Impact investors are capped at a pre-agreed multiple to the initial investment, with the excess returns being redeployed into social responsibility projects.    
   
-The returns to ThreeFold Impact investors are capped at a pre-agreed multiple to the initial investment, with the excess returns redeployed into the social responsibility projects.    
-  
-  
-ThreeFold Impact promotes accessibility, inclusion and local and global community betterment via expansion and utilization of its green grid of data and compute capacity. Key to it’s focus, Threefold Impact has a built in giveforward, direct social impact component, included by design, in all its initiatives.    
-  
-The primary social impact component is achieved by deploying returns, in excess of pre-agreed capped return, back to communities within the country from where the returns have been generated. Additionally, ThreeFold Impact has purpose built CSR initiatives based upon direct matching and sponsorship of Threefold capacity.    
-  
-TFI gives back via three types of social projects: education and digital literacy, accessibility of digital services and critical needs assistance.     
+This ensures ThreeFold Impact has an inbuilt giveforward component to ensure the betterment of the communities from within the regions where the capacity farms are operated. The goal of the give-forward is to improve digital literacy, increase access to digital services and access to critical needs assistance. Additionally, ThreeFold Impact has purpose built CSR initiatives based upon direct matching and sponsorship of Threefold capacity.     
 ## 2.1. ThreeFold Impact Instruments
   
 TFI finances several types of Farmers: individuals, entrepreneurs and businesses.     
@@ -77,36 +69,53 @@ TFI gives forward  by investing in local social impact provider partners- proven
 Positive social impact is inherent in all Threefold products and activities. The Threefold Foundation seeks to inhabit its ethos in its planning, operations, products and community, as well as through its give-forward social impact empowerment activities.    
   
 All Investments should be related to expanding the TF Grid in Africa. Investments can be for initial set up of farming and cooperatives that include hardware purchases, working capital needs, and for other set up and operational purposes.    
-## 3.1. IMPACT INVEST: Qualification Criteria
-### Project Sponsors:
-  * must portray a similar ethos and belief system to TFF and demonstrate a genuine and measurable intent to giveforward to their local community.
-  * must be reliable sponsor and meet the operational due diligence criteria
-  * must have a solid business plan and financial projections 
-  * must have operating Agreements
-  * must have a mature leadership team
-### Project Ticket Size:
-  * Size USD1,500 - USD 15,000 are called small farming projects
-  * Size USD 15,001-150,000 are called medium farming projects
-  * Size USD 150,001 - 500,000 are called large farming projects
-  * Size USD 500,001 - 5,000,000 are called cooperative projects
-  * Size 5,000,001 and above are called large cooperative projects
-### Investment Term: 3-5 years ?
-### Equity Requirement and other commitments to be met:
-  * Min 30% collateral by project sponsor
-  * Collateralization (maybe vested tokens???)
-  * Personal and corporate guarantees
-  * Bank letter of guarantee (15% of project value, renewed annually based on the remaining liabilities to the TFI)
-### Security provided to cover financial support? How do we recover support capital (at least) in worst case scenario?
-### ROI Requirement to be met: Min 25% on USD basis p.a.??
-### Payback Period Requirement: Max 4 years
-### Please define which countries in Africa are ok to invest for TFI Africa
-### Distribution of the NAV of TFI Africa:
-  * Max 10% per project
-  * Max 20% per country (geographical limits?)
-  * Others?
-  * Max 10% per project
-  * Max 20% per country (geographical limits?)
-  * Others?
+## 3.1 IMPACT INVEST: Qualification Criteria
+- Project Sponsors:
+  - must portray a similar ethos and belief system to TFF and demonstrate a genuine and measurable intent to giveforward to their local community.
+  - must be reliable sponsor and meet the operational due diligence criteria
+  - must have a solid business plan and financial projections 
+  - must have operating Agreements
+  - Must have a mature leadership team
+- Project Ticket Size:
+  - Size USD1,500 - USD 15,000 are called small farming projects
+  - Size USD 15,001-150,000 are called medium farming projects
+  - Size USD 150,001 - 500,000 are called large farming projects
+  - Size USD 500,001 - 5,000,000 are called cooperative projects
+  - Size 5,000,001 and above are called large cooperative projects
+- Investment Term: 3-5 years 
+- Equity Requirement and other commitments to be met:
+- Min 30% collateral by project sponsor
+- Collateralization
+- Personal and corporate guarantees
+- Bank letter of guarantee (15% of project value, renewed annually based on the remaining liabilities to the TFI)
+- Project Ticket Size:
+  - Size USD1,500 - USD 15,000 are called small farming projects
+  - Size USD 15,001-150,000 are called medium farming projects
+  - Size USD 150,001 - 500,000 are called large farming projects
+  - Size USD 500,001 - 5,000,000 are called cooperative projects
+  - Size 5,000,001 and above are called large cooperative projects
+- Investment Term: 3-5 years 
+- Equity Requirement and other commitments to be met:
+- Min 30% collateral by project sponsor
+- Collateralization
+- Personal and corporate guarantees
+- Bank letter of guarantee (15% of project value, renewed annually based on the remaining liabilities to the TFI)
+- Min 30% collateral by project sponsor
+- Collateralization
+- Personal and corporate guarantees
+- Bank letter of guarantee (15% of project value, renewed annually based on the remaining liabilities to the TFI)
+  
+**NOTE Security provided should cover financial support to ensure the recovery fo capital, at a minimum in the worst case scenario. **    
+  
+- ROI Requirement to be met: Min 25% on USD basis p.a
+- Payback Period Requirement: Max 4 years
+- Distribution of the NAV of TFI Africa:
+- Max 10% per project
+- Max 20% per country (geographical limits?)
+- Others?
+- Max 10% per project
+- Max 20% per country (geographical limits?)
+- Others?
 ## 3.2. IMPACT INVEST CSR: Partner selection criteria
 Impact Invest’s give-forward CSR funds achieve social impact in key target sectors by partnering with established Social Impact Partners (SIPs).     
   
@@ -226,3 +235,28 @@ xxx
 - TFI Incorporation: 							August 2018 (end)
 - TFI Seed Investment in 3 small projects for showcase:		Sept 2018 (end)
 - TFI Showcase to first round investors:				Nov 2018 (early)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
