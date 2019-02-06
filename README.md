@@ -19,4 +19,4 @@ ThreeFold related information can be seen at:
 
 You can read Kristof’s latest articles at [medium.com/@despiegk](https://medium.com/@despiegk)
 
-
+Repo Owner: [Chris Hutton](https://github.com/orgs/threefoldfoundation/people/christopherhutton)
