@@ -6,15 +6,12 @@
 
 For additional information on Threefold Impact, please refer to below quick links: 
 
-- [ThreeFold Impact WIKI Site ](https://threefoldfoundation.github.io/info_impact/)
 - [ThreeFold Impact Website](https://threefoldimpact.com/)
 - [ThreeFold Impact Document Repo](https://github.com/threefoldfoundation/info_impact/tree/master/docs)
 
 ThreeFold related information can be seen at:
 
-- [ThreeFold Foundation website](http://www.threefoldfoundation.com/)
-- [ThreeFold Token website](http://www.tftokens.com/)
-- [ThreeFold Grid Website](https://tffarmers.com/) 
+- [ThreeFold Foundation website](http://www.threefold.io/) 
 - [ThreeFold Foundation Wiki](https://threefoldfoundation.github.io/info_foundation/)
 - [ThreeFold Whitepaper](https://threefoldtoken.com/pdf/tf_whitepaper.pdf)
 - [ThreeFold Foundation YouTube channel](https://www.youtube.com/c/ThreeFoldFoundation)
