@@ -13,7 +13,6 @@ ThreeFold related information can be seen at:
 
 - [ThreeFold Foundation website](http://www.threefold.io/) 
 - [ThreeFold Foundation Wiki](https://threefoldfoundation.github.io/info_foundation/)
-- [ThreeFold Whitepaper](https://threefoldtoken.com/pdf/tf_whitepaper.pdf)
 - [ThreeFold Foundation YouTube channel](https://www.youtube.com/c/ThreeFoldFoundation)
 - [ThreeFold Facebook Page](https://www.facebook.com/ThreeFoldCommunity)
 - [ThreeFold Linkdin Site](https://www.linkedin.com/company/threefold-foundation/)
